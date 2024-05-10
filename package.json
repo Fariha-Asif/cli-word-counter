@@ -1,6 +1,6 @@
 {
   "name": "fari-cli-word-counter",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "\"A simple word counter application using Typescript, NodeJS and Inquirer.\"",
   "main": "index.js",
   "type": "module",
